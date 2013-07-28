@@ -3,6 +3,10 @@
   "description": "transport abstraction and event routing",
   "version": "0.0.1",
   "author": "espr <espr@newcu.be>",
+  "repository": "https://github.com/espr/dsprsn.git",
+  "scripts": {
+    "test":"./node_modules/.bin/cake test"
+  },
   "dependencies": {
     "espr-util":"latest",
     "super-rare-id":"latest"

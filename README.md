@@ -3,6 +3,8 @@ dsprsn
 
 transport abstraction and event routing
 
+[![Build Status](https://travis-ci.org/espr/dsprsn.png)](https://travis-ci.org/espr/dsprsn)
+
 license
 -------
 The MIT License (MIT)
